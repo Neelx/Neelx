@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neelx" alt="neelx" /></a> </p>
 
-- 🔭 I’m currently working on [Alegria- The Festival of Joy](alegria.co.in)
+- 🔭 I’m currently working on [Alegria- The Festival of Joy](https://www.alegria.co.in/)
 
 - 🌱 I’m currently learning **Golang**
 
