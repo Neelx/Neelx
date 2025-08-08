@@ -6,6 +6,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Neelx&theme=dark&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Neelx&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
